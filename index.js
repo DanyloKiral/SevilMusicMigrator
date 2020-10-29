@@ -1,11 +1,11 @@
 $(function () {
     var spotifyCredentials = {
-        clientId: "54c64d3722554f518b2894016a8d4ea0",
-        clientSecret: "03dc1abbe91a4f8394a4502cf0db1733"
+        clientId: "",
+        clientSecret: ""
     };
-    var danyloUserId = "6lgf6m86c9c7voicbgc9pocc7";
-    var playlistId = "5Nif3Ijj8h8NOzYRDYxFHA";
-    var destinationPlaylistName = "Sevil VK Music Migration Result Playlist 1";
+    var danyloUserId = "";
+    var playlistId = "";
+    var destinationPlaylistName = "";
     var accessToken = null;
     var userId = null;
 
